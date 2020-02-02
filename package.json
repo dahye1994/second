@@ -10,7 +10,7 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
   },
-  "homepage": "http://dahye1994.github.io/second",
+  "homepage": "https://dahye1994.github.io/second",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
