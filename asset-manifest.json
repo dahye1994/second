@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/realFirstProject/static/css/main.047a0e7a.chunk.css",
+    "main.js": "/realFirstProject/static/js/main.4e8f6f96.chunk.js",
+    "main.js.map": "/realFirstProject/static/js/main.4e8f6f96.chunk.js.map",
+    "runtime-main.js": "/realFirstProject/static/js/runtime-main.a8434771.js",
+    "runtime-main.js.map": "/realFirstProject/static/js/runtime-main.a8434771.js.map",
+    "static/js/2.64711497.chunk.js": "/realFirstProject/static/js/2.64711497.chunk.js",
+    "static/js/2.64711497.chunk.js.map": "/realFirstProject/static/js/2.64711497.chunk.js.map",
+    "index.html": "/realFirstProject/index.html",
+    "precache-manifest.75264f260219555b413b548e3de6902a.js": "/realFirstProject/precache-manifest.75264f260219555b413b548e3de6902a.js",
+    "service-worker.js": "/realFirstProject/service-worker.js",
+    "static/css/main.047a0e7a.chunk.css.map": "/realFirstProject/static/css/main.047a0e7a.chunk.css.map",
+    "static/js/2.64711497.chunk.js.LICENSE": "/realFirstProject/static/js/2.64711497.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8434771.js",
+    "static/js/2.64711497.chunk.js",
+    "static/css/main.047a0e7a.chunk.css",
+    "static/js/main.4e8f6f96.chunk.js"
+  ]
+}
